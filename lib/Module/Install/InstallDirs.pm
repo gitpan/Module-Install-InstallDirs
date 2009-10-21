@@ -6,7 +6,7 @@ package Module::Install::InstallDirs;
 use Module::Install::Base; @ISA = qw(Module::Install::Base);
 use Config;
 
-$VERSION = '0.01';
+$VERSION = '0.02';
 use strict;
 
 sub installdirs {
